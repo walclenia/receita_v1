@@ -20,7 +20,7 @@
 
 		<sonar.projectKey>receita-segura</sonar.projectKey>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>8c281f7ddce170e46bd9a53a7ba8ceb3e3fcde35</sonar.login>
+		<sonar.login>82413a63ec8005fef8200e8e5fe8f2ca52f45ace</sonar.login>
 
 		<jasperreports.version>6.7.0</jasperreports.version>
 		<jasperreports-functions.version>6.9.0</jasperreports-functions.version>
